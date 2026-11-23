@@ -1,0 +1,6 @@
+bin/
+obj/
+test-output/
+__pycache__/
+/dist/
+/release/
